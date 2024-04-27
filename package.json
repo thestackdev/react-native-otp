@@ -1,0 +1,32 @@
+{
+  "name": "react-native-otp",
+  "version": "1.0.7",
+  "description": "React Native OTP Text Input",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf ./dist && babel src --out-dir dist",
+    "prepare": "rimraf ./dist && babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thestackdev/react-native-otp.git"
+  },
+  "keywords": [
+    "expo-otp-input",
+    "react-native-otp"
+  ],
+  "author": "Shanmukeshwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thestackdev/react-native-otp/issues"
+  },
+  "homepage": "https://github.com/mmusaib/react-native-otp#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.7",
+    "metro-react-native-babel-preset": "^0.77.0",
+    "rimraf": "^5.0.5"
+  }
+}
