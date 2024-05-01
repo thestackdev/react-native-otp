@@ -4,7 +4,7 @@
 
 <div style="display:flex;justify-content:space-evenly;align-items:center">
 
-![](assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-04-27%20at%2013.38.28.png)
+![React Native OTP](assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-04-27%20at%2013.38.28.png){ width=200 height=400 }
 
 </div>
 
