@@ -1,6 +1,6 @@
 {
-  "name": "react-native-otp",
-  "version": "1.0.7",
+  "name": "@shanmukeshwar/react-native-otp-input",
+  "version": "1.0.1",
   "description": "React Native OTP Text Input",
   "main": "dist/index.js",
   "types": "index.d.ts",
